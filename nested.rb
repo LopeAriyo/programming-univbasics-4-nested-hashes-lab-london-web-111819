@@ -86,6 +86,9 @@ def adding_matz
         }
      }
 
+		 programmer_hash[:yukihiro_matsumoto][:known_for] = "C"
+		 programmer_hash[:yukihiro_matsumoto][:languages] = "C"
+
 
 end
 
